@@ -36,3 +36,5 @@ what is NLP?
           - Summarization
           - AI generated Fairytale
         
+**Transformers**
+The underlying architecture of BERT,GPT-3 and Different Large Language Models is Transformers. "Attention is all you need" by Google reasearchers introduced Transformers which became a turning point in Natural Language Processing(NLP).
